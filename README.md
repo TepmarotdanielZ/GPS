@@ -29,8 +29,38 @@ The GPS module Transmits the data via the UART in the NMEA format. In this tutor
 
     . NVIC:
 
-![image_2024-04-04_11-40-15](https://github.com/TepmarotdanielZ/GPS/assets/139426571/46ec762d-c0b7-4108-bd26-24599467494f)
+![Screenshot from 2024-04-18 15-30-52](https://github.com/TepmarotdanielZ/GPS/assets/139426571/2bf17bac-dafb-4838-9ae5-c7c3cd1c3ba7)
 
     . DMA:
 
 ![Screenshot from 2024-04-18 15-32-05](https://github.com/TepmarotdanielZ/GPS/assets/139426571/a24d6681-4ce6-4f98-9c60-a35ae7b249bc)
+
+# 4. CODE  
+
+![Screenshot from 2024-04-18 15-36-52](https://github.com/TepmarotdanielZ/GPS/assets/139426571/1dfc0d86-4c15-41af-a076-4db49d9dfec0)
+
+![Screenshot from 2024-04-18 15-37-20](https://github.com/TepmarotdanielZ/GPS/assets/139426571/751f7d7c-f684-47d6-85fe-6bdcd600d846)
+
+![Screenshot from 2024-04-18 15-37-41](https://github.com/TepmarotdanielZ/GPS/assets/139426571/a6b1dedb-b713-4172-b671-322cc17bb0f8)
+
+# 5. INCLUDE LIBRARY (lwgps.h)
+
+![Screenshot from 2024-04-18 15-39-55](https://github.com/TepmarotdanielZ/GPS/assets/139426571/db559f12-f3c9-4dba-aa32-001a93b816c3)
+
+# 6. INCLUDE LIBRARY (lwgps.c)
+
+![Screenshot from 2024-04-18 15-40-02](https://github.com/TepmarotdanielZ/GPS/assets/139426571/bf1de43f-d85f-40a4-810f-b97ad180a787)
+
+# 7. SCEMATIC DAIGRAM 
+
+![image_2024-04-04_11-40-15](https://github.com/TepmarotdanielZ/GPS/assets/139426571/46ec762d-c0b7-4108-bd26-24599467494f)
+
+# 8. RESULT TESTING GPS
+
+![image](https://github.com/TepmarotdanielZ/GPS/assets/139426571/3a2aaa60-da8b-4e7c-bb93-586bb0990e4c)
+
+![image](https://github.com/TepmarotdanielZ/GPS/assets/139426571/c9fa2b87-8660-4a22-a68d-f0c8ddadab87)
+
+
+
+
